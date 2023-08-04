@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "me.bengiv.orb.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"ORBMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
