@@ -5,10 +5,10 @@
 	"name": "OresRBack",
 	"description": "Makes ores actually drop ores",
 	"authors": [
-		"Ben (@bengiv)"
+		"bengiv"
 	],
 	"contact": {
-		"homepage": "https://github.com/bengiv",
+		"homepage": "https://modrinth.com/mod/orb-oresrback",
 		"sources": "https://github.com/bengiv/orb",
 		"issues": "https://github.com/bengiv/orb/issues"
 	},
@@ -28,7 +28,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.14.22",
-		"minecraft": "~1.19.2",
+		"minecraft": ">=1.17",
 		"java": ">=17",
 		"fabric-api": "*"
 	},
