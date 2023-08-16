@@ -5,9 +5,9 @@ import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class OresAreBack implements ModInitializer {
+public class OresRBack implements ModInitializer {
 	public static final String MOD_ID = "orb";
-    public static final Logger LOGGER = LoggerFactory.getLogger("orb");
+	public static final Logger LOGGER = LoggerFactory.getLogger("orb");
 
 	@Override
 	public void onInitialize() {
