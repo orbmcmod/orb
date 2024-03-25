@@ -1,8 +1,5 @@
 # orb
 
-## Source Code from each version
-Click on branch main, and then switch to the mc version you want the source code of
-
 ## What does this mod do?
 This simple mod makes it possible to mine ores like in versions before 1.17 again. That means that ores drop ores again and not raw ores.
 
