@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "orb",
+	"version": "${version}",
+	"name": "orb",
+	"description": "Makes ores actually drop ores!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/orb-oresrback",
+		"sources": "https://github.com/bengiv/orb",
+		"issues": "https://github.com/bengiv/orb/issues"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/orb/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.bengiv.Orb"
+		],
+		"fabric-datagen": [
+			"dev.bengiv.OrbDataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.14.0",
+		"minecraft": ">=1.17.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
