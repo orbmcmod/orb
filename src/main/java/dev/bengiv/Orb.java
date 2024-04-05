@@ -18,6 +18,6 @@ public class Orb implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		LOGGER.info("Initialized Mod");
+		LOGGER.info("[ORB] Initialized Mod");
 	}
 }
