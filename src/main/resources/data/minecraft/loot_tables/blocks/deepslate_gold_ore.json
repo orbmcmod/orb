@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_ore"
+          "name": "minecraft:deepslate_gold_ore"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "minecraft:blocks/iron_ore"
+  "random_sequence": "minecraft:blocks/deepslate_gold_ore"
 }
