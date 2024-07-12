@@ -18,10 +18,20 @@
     "main": ["dev.bengiv.Orb"],
     "fabric-datagen": ["dev.bengiv.OrbDataGenerator"]
   },
+   "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.wiki": "https://github.com/bengiv/orb/wiki",
+        "modmenu.discord": "https://bento.me/bengiv",
+        "modmenu.modrinth": "https://modrinth.com/mod/orb-oresrback",
+        "modmenu.curseforge": "https://www.curseforge.com/minecraft/mc-mods/orb-oresrback"
+      }
+    }
+  },
   "depends": {
     "fabricloader": ">=0.14.0",
-    "minecraft": ">=1.17.1 <=1.20.4",
-    "java": ">=16",
+    "minecraft": "<=1.17.1 >=1.20.4",
+    "java": "<=16 >=17",
     "fabric-api": "*"
   }
 }
