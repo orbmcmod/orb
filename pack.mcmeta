@@ -1,0 +1,16 @@
+{
+	"pack": {
+		"pack_format": 48,
+		"supported_formats": {"min_inclusive": 48, "max_inclusive": 61},
+		"description": [
+			{
+				"text": "ORB - 1.21.x - v1.8",
+				"color": "blue"
+			},
+			{
+				"text": "\nbento.me/bengiv",
+				"color": "aqua"
+			}
+		]
+	}
+}
