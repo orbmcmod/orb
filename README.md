@@ -1,6 +1,6 @@
 # orb
 
-## What does this mod do?
+## What does this datapack do?
 This simple mod makes it possible to mine ores like in versions before 1.17 again. That means that ores drop ores again and not raw ores.
 
 ## But whyy??

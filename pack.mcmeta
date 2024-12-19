@@ -1,0 +1,16 @@
+{
+	"pack": {
+		"pack_format": 18,
+		"supported_formats": {"min_inclusive": 7, "max_inclusive": 18},
+		"description": [
+			{
+				"text": "ORB - Ores R Back",
+				"color": "blue"
+			},
+			{
+				"text": "\nbento.me/bengiv",
+				"color": "aqua"
+			}
+		]
+	}
+}
