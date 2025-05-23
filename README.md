@@ -1,4 +1,4 @@
-# [<img src="https://raw.githubusercontent.com/orbmcmod/assets/refs/heads/main/banners/ORB.png">]
+# <img src="https://raw.githubusercontent.com/orbmcmod/assets/refs/heads/main/banners/ORB.png">
 
 ## What does this datapack do?
 This simple datapack makes it possible to mine ores like in versions before 1.17 again. That means that ores drop ores again and not raw ores.
