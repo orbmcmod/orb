@@ -1,10 +1,10 @@
 {
 	"pack": {
 		"pack_format": 48,
-		"supported_formats": {"min_inclusive": 48, "max_inclusive": 88.0},
+		"supported_formats": {"min_inclusive": 48, "max_inclusive": 94.1},
 		"description": [
 			{
-				"text": "ORB - 1.21.x - v1.9.1",
+				"text": "ORB - 1.21.x - v1.9.2",
 				"color": "blue"
 			},
 			{
