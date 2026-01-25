@@ -1,19 +1,7 @@
 {
   "pack": {
-    "description": {
-      "text": "ORB - 1.21.x - v1.9.2",
-      "type": "text",
-      "extra": [
-        {
-          "text": "\ngithub.com/bjsho",
-          "type": "text",
-          "color": "aqua"
-        }
-      ],
-      "color": "blue"
-    },
-    "pack_format": 48,
+    "description": "§9ORB - 1.21.x - v1.9.2\n§bgithub.com/bjsho",
     "min_format": 48,
-    "max_format": 99
+    "max_format": 94
   }
 }
