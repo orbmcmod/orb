@@ -12,8 +12,8 @@
       ],
       "color": "blue"
     },
-    "pack_format": 94,
+    "pack_format": 48,
     "min_format": 48,
-    "max_format": 94
+    "max_format": 99
   }
 }
