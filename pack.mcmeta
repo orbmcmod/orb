@@ -1,16 +1,7 @@
 {
-	"pack": {
-		"pack_format": 48,
-		"supported_formats": {"min_inclusive": 48, "max_inclusive": 88.0},
-		"description": [
-			{
-				"text": "ORB - 1.21.x - v1.9.1",
-				"color": "blue"
-			},
-			{
-				"text": "\nbento.me/bjs",
-				"color": "aqua"
-			}
-		]
-	}
+  "pack": {
+    "description": "§9ORB - 1.21.9+ - v1.9.2\n§bgithub.com/bjsho",
+    "min_format": 88,
+    "max_format": 95
+  }
 }
