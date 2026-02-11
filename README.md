@@ -7,4 +7,4 @@ This simple datapack makes it possible to mine ores like in versions before 1.17
 My friends and I noticed after playing the newer versions of Minecraft that the new ore logic is a bit overpowered and makes it much easier to get resources (especially Copper Ore)
 
 ## More Minecraft Versions?
-I will support more Minecraft versions if it is requested. So if someone comments or opens an issue on GitHub that they want another version of Minecraft for this datapack, I will make it!
+I will support more Minecraft versions if it is requested. So if someone opens an issue on GitHub or text me on [Matrix](https://matrix.to/#/#orbmcmod:nope.chat) that they want another version of Minecraft for this datapack, I will make it!
